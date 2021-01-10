@@ -1,0 +1,60 @@
+|--------------------Solución y datos hasta el momento --------------------------|
+    Cantidad instanciaciones: 1112672932
+    Cantidad de chequeos (vista forward al dominio): 1127163524
+    Cantidad de retornos totales: 2453482
+    Tiempo de ejecución total: 24656.1
+|-------------------------MEJOR SOLUCIÓN ENCONTRADA------------------------------|
+    Avion 1 :75
+    Avion 2 :157
+    Avion 3 :134
+    Avion 4 :103
+    Avion 5 :201
+    Avion 6 :118
+    Avion 7 :185
+    Avion 8 :126
+    Avion 9 :142
+    Avion 10 :121
+    Avion 11 :137
+    Avion 12 :165
+    Avion 13 :261
+    Avion 14 :250
+    Avion 15 :214
+    Avion 16 :310
+    Avion 17 :276
+    Avion 18 :237
+    Avion 19 :173
+    Avion 20 :291
+    Avion 21 :579
+    Avion 22 :332
+    Avion 23 :225
+    Avion 24 :193
+    Avion 25 :299
+    Avion 26 :295
+    Avion 27 :325
+    Avion 28 :340
+    Avion 29 :362
+    Avion 30 :496
+    Avion 31 :475
+    Avion 32 :329
+    Avion 33 :370
+    Avion 34 :385
+    Avion 35 :400
+    Avion 36 :492
+    Avion 37 :483
+    Avion 38 :435
+    Avion 39 :511
+    Avion 40 :519
+    Avion 41 :534
+    Avion 42 :549
+    Avion 43 :302
+    Avion 44 :319
+    Avion 45 :415
+    Avion 46 :450
+    Avion 47 :404
+    Avion 48 :587
+    Avion 49 :564
+    Avion 50 :345
+|--------------------------------------------------------------------------------|
+    Costo: 90855
+    Tiempo: 24342.9
+|--------------------------------------------------------------------------------|

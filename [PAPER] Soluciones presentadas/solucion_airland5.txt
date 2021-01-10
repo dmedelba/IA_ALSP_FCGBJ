@@ -1,0 +1,30 @@
+|--------------------Solución y datos hasta el momento --------------------------|
+    Cantidad instanciaciones: 1532180609
+    Cantidad de chequeos (vista forward al dominio): 1400203418
+    Cantidad de retornos totales: 8405031
+    Tiempo de ejecución total: 24609.4
+|-------------------------MEJOR SOLUCIÓN ENCONTRADA------------------------------|
+    Avion 1 :129
+    Avion 2 :187
+    Avion 3 :82
+    Avion 4 :90
+    Avion 5 :98
+    Avion 6 :106
+    Avion 7 :114
+    Avion 8 :144
+    Avion 9 :152
+    Avion 10 :160
+    Avion 11 :240
+    Avion 12 :224
+    Avion 13 :168
+    Avion 14 :202
+    Avion 15 :243
+    Avion 16 :300
+    Avion 17 :258
+    Avion 18 :266
+    Avion 19 :274
+    Avion 20 :282
+|--------------------------------------------------------------------------------|
+    Costo: 21590
+    Tiempo: 0.002
+|--------------------------------------------------------------------------------|
