@@ -13,7 +13,10 @@
     - Dicha información también se puede observar almacenada en el archivo **solucion_NOMBREINSTANCIA.txt** en la carpeta del proyecto.
 - Una vez finalizado el algoritmo entregará por pantalla la mejor solución con su correspondiente asignación de tiempo y costo.
 
+- Para volver a ejecutar otra instancia o la misma se recomienda realizar el comando *make clean*, el cual eliminará la compilación anterior y los archivos .txt creados en otras ejecuciones.
 
 ````
-Importante: Todas las instancias a probar deben estar dentro de la carpeta /Instancias 
+Importante: 
+- Todas las instancias a probar deben estar dentro de la carpeta /Instancias 
+- Proyecto desarrollado en macOS y probado en macOS y Linux.
 ````
