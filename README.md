@@ -2,6 +2,6 @@
 
 ## Instrucciones para ejecutar:
 ```
-    Ejecutar comando 'make', se debe estar dentro de la carpeta del proyecto.
-    Ejecutar make run
+    - Ejecutar comando 'make', se debe estar dentro de la carpeta del proyecto.
+    - Ejecutar make run
 ```
