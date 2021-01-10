@@ -1,4 +1,4 @@
-# AI: ALSP Solved with FC + GBJ in C++
+# IA: ALSP resuelto con FC + GBJ en C++
 
 ## Instrucciones para ejecutar:
 
