@@ -19,4 +19,5 @@
 Importante: 
 - Todas las instancias a probar deben estar dentro de la carpeta /Instancias 
 - Proyecto desarrollado en macOS y probado en macOS y Linux.
+- Dentro de la carpeta /Instancias existe una instancia pequeñallamada airland_test.txt, la cual se ejecuta de manera rápida, demostrando el correcto funcionamiento de FC+GBJ.
 ````
